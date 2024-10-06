@@ -1,7 +1,7 @@
 // Solidity is case sensitive
 // SPDX-License-Identifier: MIT
 
-pragma solidity 0.8.25;
+pragma solidity ^0.8.24;
 
 // pragma solidity ^0.8.0;
 // pragma solidity >=0.8.0 <0.9.0;
